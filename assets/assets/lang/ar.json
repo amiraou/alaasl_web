@@ -1,0 +1,101 @@
+{
+  "appName": "الأصل ",
+  "sub_centers": "المراكز",
+  "centers": "المراكز",
+  "centers_show": "عرض",
+  "inventory": "المخزن",
+  "invoices": "الفواتير",
+  "patients": "الزيائن",
+  "stk_clients": "مخزن الزبائن",
+  "stk_edite": "تعديل المخزن",
+  "list_stock": "قائمة المخازن",
+  "stk_delete": "حذف",
+  "products_stock": "المنتجات -المراكز-",
+  "products_distributers": "المنتجات -الموزعين-",
+  "products_composés": "المنتجات المركبة",
+  "transfer_to_stock": "تحويل من إلى المخازن",
+  "family_type_products": "العائلات والاصناف للمنتجات",
+  "new_invoices": "انشاء فاتورة",
+  "new_invoices_sub": "انشاء",
+  "sell_invoices" :  "فواتير البيع",
+  "bay_invoices" :  "فاتورة شراء",
+  "center_transfer_invoices" :  "فاتورة تحويل بين المراكز",
+  "product_request_invoices" : "فاتورة طلب سلع",
+  "sell_to_client_invoices" :  "فاتورة بيع للعميل",
+  "sell_to_distributeur_invoices" : "فاتورة بيع للموزع",
+  "dashboard" : "الرئيسية",
+
+  "distributors" : "الموزعين",
+  "distributors_list" : "قائمة الموزعين",
+  "distributors_customers" : "قائمة الزبائن",
+  "distributors_customers_show" : "عرض",
+  "distributors_show" : "عرض",
+
+  "employees" : "الموظفين",
+  "employee_classes" : "الوظائف",
+  "employee_classes_show" : "عرض",
+
+  "employee_add" : "قائمة الموظفين",
+  "employee_add_administration" : "الادارة المركزية",
+  "employee_add_centers" : "المراكز",
+
+  "products_central" : "الادارة المركزية",
+  "products_central_show" : "عرض المنتجات",
+
+  "products_family" : "العائلات",
+  "products_category" : "المجموعات",
+
+  "products_centers" : "منتجات المراكز",
+  "products_centers_show" : "عرض",
+
+  "clients" : "الزبائن",
+  "clients_centers" : "زبائن المراكز",
+  "clients_centers_show" : "عرض",
+
+  "suppliers" : "الموردين",
+  "suppliers_list" : "قائمة الموردين",
+  "suppliers_show" : "عرض",
+
+  "buy_factures" : "الفواتير",
+  "buy_factures_new" : "فواتير شراء",
+  "buy_factures_suplayer" : "من ممول",
+  "buy_factures_center" : "من مركز",
+  "facture_return" : "فواتير الارجاع",
+  "return_from_client" : "من زبون",
+  "return_from_distributor" : "من موزع",
+  "facture_request" : "فواتير طلب سلع",
+  "request_from_client" : "من الزبائن",
+  "request_from_distributor" : "من موزع",
+  "request_from_center" : "من مركز",
+  "request_to_center" : "إلى مركز",
+
+  "return_to_supplier" : "إلى المورد",
+  "request_to_supplier" : "إلى المورد",
+
+  "facture_sell" : "فاتورة بيع",
+  "sell_to_client" : "إلى الزبون",
+  "sell_to_distributor" : "إلى موزع",
+  "sell_to_center" : "إلى مركز",
+
+  "dept" : "الديون",
+  "dept_client" : "ديون الزبائن",
+  "debts_distributor" : "ديون الموزعين",
+  "debts_suppliers" : "ديون الموردين",
+  "dept_client_show" : "عرض",
+  "debts_distributor_show" : "عرض",
+  "debts_suppliers_show" : "عرض",
+
+  "funds" : "الصناديق",
+  "funds_administration" : "صناديق الادارة المركزية",
+  "funds_centers" : "صناديق المراكز",
+  "funds_distributor" : "صناديق الموزعين",
+  "funds_centers_show" : "عرض",
+  "funds_administration_show" : "عرض",
+
+
+
+
+
+  "product_cont" : "عدد المنتجات",
+  "dz" : "دج"
+}

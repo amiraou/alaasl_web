@@ -1,0 +1,103 @@
+{
+  "appName": "Alasl",
+  "sub_centers": "Centers",
+  "search": "Centers",
+  "centers_show": "Show",
+  "inventory": "inventory",
+  "invoices": "invoices",
+  "patients": "patients",
+  "stk_clients": "stock clients",
+  "stk_edite": "edit stock",
+  "list_stock": "list stock",
+  "products_stock": "Products -Centers-",
+  "stk_delete": "delete",
+  "products_distributers": "Products-Distributers",
+  "products_composés": "Produits composés",
+  "transfer_to_stock": "Transfer to stock",
+  "family_type_products": "Family type products",
+  "new_invoices": "New invoices",
+  "new_invoices_sub": "New",
+
+  "sell_invoices" :  "Sell Invoice",
+  "bay_invoices" :  "Bay Invoice",
+  "center_transfer_invoices" :  "Centers Transfer Invoice",
+  "product_request_invoices" : "Request Products Invoice",
+
+  "sell_to_client_invoices" :  "Sell To Client Invoices",
+  "sell_to_distributeur_invoices" : "Sell To Distributeur Invoices",
+
+  "dashboard" : "Dashboard",
+
+  "distributors" : "Distributors",
+  "distributors_list" : "Distributors List",
+  "distributors_customers" : "Distributors Customers",
+  "distributors_customers_show" : "Show",
+  "distributors_show" : "Show",
+
+  "employees" : "Employees",
+  "employee_classes" : "Classes",
+  "employee_classes_show" : "Show",
+
+  "employee_add" : "Employee List",
+  "employee_add_administration" : "Administration Central",
+  "employee_add_centers" : "Administration Centers",
+
+  "products_central" : "Products Central",
+  "products_central_show" : "Show",
+
+  "products_family" : "Families",
+  "products_category" : "Categories",
+
+  "clients" : "Clients",
+  "clients_central" : "Clients Central",
+  "clients_centers" : "Clients Centers",
+  "clients_central_show" : "Show",
+
+  "suppliers" : "Suppliers",
+  "suppliers_list" : "Suppliers List",
+  "suppliers_show" : "Show",
+
+  "buy_factures" : "Factures",
+  "buy_factures_new" : "Buy Factures",
+  "facture_return" : "Return Factures",
+  "buy_factures_suplayer" : "From Suplayer",
+  "buy_factures_center" : "From Center",
+  "return_from_client" : "des clients",
+  "return_from_distributor" : "des distributeurs",
+  "facture_request" : "Request Factures",
+  "request_from_client" : "des client",
+  "request_from_distributor" : "des distributor",
+  "request_from_center" : "from Centers",
+  "request_to_center" : "to Centers",
+
+  "facture_sell" : "Sell Factures",
+  "sell_to_client" : "To Client",
+  "sell_to_center" : "To Center",
+  "sell_to_distributor" : "To Distributor",
+  "return_to_supplier" : "To Supplier",
+  "request_to_supplier" : "To Supplier",
+
+  "products_centers" : "Products centers",
+  "products_centers_show" : "Show",
+
+  "dept" : "Dept",
+  "dept_client" : "Client Dept",
+  "debts_distributor" : "Distributor Dept",
+  "debts_suppliers" : "Suppliers Dept",
+  "dept_client_show" : "Show",
+  "debts_distributor_show" : "Show",
+  "debts_suppliers_show" : "Show",
+
+  "funds" : "Funds",
+  "funds_administration" : "Administration Funds",
+  "funds_centers" : "Centers Funds",
+  "funds_distributor" : "Distributors Funds",
+  "funds_centers_show" : "Show",
+  "funds_administration_show" : "Show",
+
+
+
+
+  "product_cont" : "ProductCont",
+  "dz" : "DZD"
+}
